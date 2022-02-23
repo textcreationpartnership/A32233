@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties declaration to his city of London, upon occasion of the calamity by the lamentable fire</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32233</idno>
+            <idno type="STC">Wing C3004</idno>
+            <idno type="STC">ESTC R13350</idno>
+            <idno type="EEBO-CITATION">12097557</idno>
+            <idno type="OCLC">ocm 12097557</idno>
+            <idno type="VID">54002</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54002)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 863:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties declaration to his city of London, upon occasion of the calamity by the lamentable fire</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Fire, 1666.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54002:1"/>
+            <p>His Majeſtie's DECLARATION To His City of LONDON, Upon occaſion of the late Ca<g ref="char:EOLhyphen"/>lamity by the lamentable FIRE.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker</hi> Printers to the KING'S moſt Excellent Majeſty, 1666.</p>
+            <p>
+               <hi>C<g ref="char:V">Ʋ</g>M PRIVILEGIO.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:54002:2"/>
+            <pb n="1" facs="tcp:54002:2" rendition="simple:additions"/>
+            <head>HIS MAJESTIE'S DECLARATION TO His City of <hi>LONDON,</hi> Upon occaſion of the late Calamity by the lamentable FIRE.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S no particular Man hath ſu<g ref="char:EOLhyphen"/>ſtained any loſs or dammage by the late terrible and deplo<g ref="char:EOLhyphen"/>rable Fire in his Fortune or E<g ref="char:EOLhyphen"/>ſtate, in any degree to be com<g ref="char:EOLhyphen"/>pared with the loſs and dam<g ref="char:EOLhyphen"/>mage We Our Self have ſuſtained, ſo it is not poſſible for any Man to take the ſame more to heart, and to be more concerned and ſollicitous for the rebuilding this Famous City, with as much expedition as is poſſible: And ſince it hath pleaſed God to lay this heavy Judgment
+<pb n="2" facs="tcp:54002:3"/>
+upon Us all in this time, as an evidence of his diſpleaſure for Our ſins, We do comfort Our Self with ſome hope, that he wil upon Our due humiliation before Him, as a new inſtance of his ſignal bleſſing upon Us, give Us life, not on<g ref="char:EOLhyphen"/>ly to ſee the foundations laid, but the buildings finiſhed, of a much more beautiful City then is at this time conſumed; and that as the ſeat and ſcituation of it is the moſt convenient and no<g ref="char:EOLhyphen"/>ble, for the advancement of Trade, of any City in <hi>Europe;</hi> ſo that ſuch care wil be taken for the re-edification of it, both for uſe and beauty, and ſuch proviſion made for the future, againſt the ordinary and caſual accidents by Fire, as may as far as humane wiſdom can provide, upon the ſad experience We have had, reaſonably ſecure the ſame, and make it rather appear to the world as purged with the Fire (in how lamentable a manner ſoever) to a wonderful beauty and comlineſs, then conſumed by it; and We re<g ref="char:EOLhyphen"/>ceive no ſmal encouragement in this Our hope by the alacrity and chearfulneſs We obſerve in thoſe who have undergone the greateſt loſs, and ſeem the moſt undone, who with undaunted Courage appear to deſire the ſame<g ref="char:punc">▪</g> We do, and reſolved to contribute their utmoſt aſſiſtance thereunto. We have therefore thought fit, moſt neceſſary and agreeable to the great and conſtant affection We have alwayes had, and
+<pb n="3" facs="tcp:54002:3"/>
+alwayes ſhal retain for this Our Native City, to uſe this expedition in publiſhing Our Thoughts, Reſolutions, and Intentions upon this great affair that though ſuch preſent Rules and Directions cannot be formed, as muſt upon more mature deliberation be eſtabliſhed for the re-edification. Yet ſuch inconveniences may and ſhal be prevented, which may ariſe by the haſty and unskilful buildings many may propoſe to erect for their preſent conveniencies, before they can know how the ſame wil ſute and conſiſt with the deſign that ſhal be made; And if this candour of Ours, which reſolves with the bleſ<g ref="char:EOLhyphen"/>ſing of God ſo to provide for the juſt right and intereſt of all, that no man ſhal have cauſe to complain of wrong and oppreſſion; And if this Our ſeaſonable animadverſion ſhal not meet with that prudent ſubmiſſion we expect, but that ſome obſtinate and refractory perſons wil preſume to erect ſuch Buildings as they ſhal think fit, upon pretence that the Ground is their own, and that they may do with it what they pleaſe, ſuch their obſtinacy ſhal not pre<g ref="char:EOLhyphen"/>vaile to the publick prejudice; but We do hereby require the Lord Mayor and the other Magiſtrates of the City of <hi>London</hi> in their ſeve<g ref="char:EOLhyphen"/>ral limits, to be very watchful in ſuch caſes, and ſpeedily to pul down whatſoever ſuch men ſhal preſume to ſet up, ſo much to the diſtur<g ref="char:EOLhyphen"/>bance
+<pb n="4" facs="tcp:54002:4"/>
+of Publick Order and decency, and that they forthwith give notice to Us or Our Privy Councel of ſuch their Proceedings, and return the names of ſuch refractory perſons who pre<g ref="char:EOLhyphen"/>ſume to contemn this Our Injunction, and We ſhal give order for their exemplary pu<g ref="char:EOLhyphen"/>niſhment without the violation of the Publick Juſtice.</p>
+            <p>And becauſe no men ſhal complain or ap<g ref="char:EOLhyphen"/>prehend that by this caution or reſtraint of Ours, they ſhal or may for a long time be kept from providing Habitations for themſelves, and for the carrying on their Trades, though We make no queſtion, but in a ſhort time, with the aſſiſtance and advice of the Lord Mayor and Court of Aldermen (who have beſought us for ſome time to put this reſtraint) to finiſh the whole deſign, even before any men can make proviſion of materials for any valuable Edifi<g ref="char:EOLhyphen"/>ces: We do declare, that if any conſiderable number of men (for it is impoſsible to comply with the humour of every particular man) ſhal addreſs themſelves to the Court of Aldermen, &amp; manifeſt to them in what places their Ground lies, upon which they deſign to build, they ſhal in a ſhort time receive ſuch order and direction, for their proceeding therein, that they ſhal have no cauſe to complain; and ſo We proceed to the ſetting down ſuch general to which all par<g ref="char:EOLhyphen"/>ticular
+<pb n="5" facs="tcp:54002:4"/>
+deſignes muſt conform themſelves.</p>
+            <p>In the firſt place the woful experience in this late heavy viſitation hath ſufficiently convinced all men of the pernicious conſequences which have attended the building with Timber, and even with Stone it ſelf, and the notable benefit of Brick, which in ſo many places: hath reſiſted and even extinguiſhed the Fire; And we do therefore hereby declare Our expreſs Wil and Pleaſure, That no man whatſoever ſhal pre<g ref="char:EOLhyphen"/>ſume to erect any Houſe or Building, great or ſmal, but of Brick, or Stone, and if any man ſhal do the contrary, the next Magiſtrate ſhal forthwith cauſe it to be pulled down, and ſuch further courſe ſhal be taken for his puniſhment as he deſerves; And We ſuppoſe that the notable benefit many men have received from thoſe Cellars which have been wel and ſtrong<g ref="char:EOLhyphen"/>ly arched, wil perſwade moſt men who build good Houſes, to practice that good husbandry, by Arching all convenient places.</p>
+            <p>We do declare, That <hi>Fleetſtreet, Cheapſide, Cornhill,</hi> and all other eminent and notorious Streets, ſhal be of ſuch a breadth, as may with Gods bleſſing prevent the miſchief that one ſide may ſuffer if the other be on fire, which was the caſe lately in <hi>Cheapſide,</hi> the preciſe breadth of which ſeveral Streets, ſhal be upon advice with the Lord Mayor and Aldermen
+<pb n="6" facs="tcp:54002:5"/>
+ſhortly publiſh'd, with many other particular Orders and Rules, which cannot yet be adjuſt<g ref="char:EOLhyphen"/>ed; in the mean time We reſolve though all Streets cannot be of equal breadth, yet none ſhal be ſo narrow as to make the paſſage un<g ref="char:EOLhyphen"/>eaſie or inconvenient, eſpecially towards the Water-ſide; nor wil we ſuffer any Lanes or Allyes to be erected, but where upon mature deliberation the ſame ſhal be found abſolutely neceſſary, except ſuch places ſhal be ſet aſide which ſhal be deſigned onely for buildings of that kind, and from whence no publick miſchief may probably ariſe.</p>
+            <p>The irrepairable damage and loſs by the late Fire, being next to the hand of God in the terri<g ref="char:EOLhyphen"/>ble Wind, to be imputed to the place in which it firſt brake out, amongſt ſmall Timber houſes ſtanding ſo cloſe together, that as no remedy could be applyed from the River for the quenching thereof, to the contiguouſneſs of the Buildings hindering and keeping all poſſible relief from the Land ſide, We do reſolve and declare, That there ſhal be a fair Key or Wharf on all the River ſide, that no houſe ſhall be erected within ſo many foot of the River, as ſhal be within few daies declared in the Rules formerly mentioned; nor ſhal there be in thoſe Buildings which ſhal be erected next the Ri<g ref="char:EOLhyphen"/>ver, which We deſire may be fair Structures,
+<pb n="7" facs="tcp:54002:5"/>
+for the ornament of the City, any houſes to be inhabited by Brewers, or Diers, or Sugar Bakers, which Trades by their continu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Smoaks con<g ref="char:EOLhyphen"/>tributed very much to the unhealthineſs of the adjacent places, but We require the Lord Major and Aldermen of <hi>London</hi> upon a ful conſidera<g ref="char:EOLhyphen"/>tion, and weighing all conveniences and inconve<g ref="char:EOLhyphen"/>niences that can be foreſeen, to propoſe ſuch a place as may be fit for all thoſe Trades which are carried on by ſmoak to inhabit together, or at leaſt ſeveral places for the ſeverall barters of the Town for thoſe occupations, and in which they ſhal find their accompt in convenience and profit, as wel as other places ſhall receive the benefit in the diſtance of the neighbourhood, it being Our purpoſe that they who exerciſe thoſe neceſſary profeſſions, ſhal be in all reſpects as wel provided for and encouraged as ever they have been, and undergo as little prejudice as may be by being leſs inconvenient to their Neighbours.</p>
+            <p>Theſe grounds and foundations being laid, from the ſubſtance whereof we ſhal not depart, and which being publiſhed are ſufficient adver<g ref="char:EOLhyphen"/>tiſements to prevent any mans running into or bringing an inconvenience upon himſelf by a precipitate engagement in any Act which may croſs theſe foundations, We have in order to the reducing this great and glorious deſign into
+<pb n="8" facs="tcp:54002:6"/>
+practiſe, directed, and We do hereby direct, that the Lord Mayor and Court of Aldermen do with all poſſible expe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and exact Survey to be made and taken of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ru<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by the late lamentable Fires, to the end that it may appear to whom all the Houſes and Ground did in truth belong, what Term the ſeveral occupiers were poſſeſſed of, &amp; at what Rents, and to whom, either Corpora<g ref="char:EOLhyphen"/>tions, Companies, or ſingle perſons, the Rever<g ref="char:EOLhyphen"/>ſion and Inheritance appertained, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pro<g ref="char:EOLhyphen"/>viſion may be made that though every man muſt not be ſuffered to erect what Buildings and where he pleaſes, he ſhal not in any degree be debarred from receiving the reaſonable bene<g ref="char:EOLhyphen"/>fit of what ought to accrue to him from ſuch Houſes or Lands, there being nothing leſs in Our thoughts, then that any particular per<g ref="char:EOLhyphen"/>ſons right and intereſt ſhould be ſacrificed to the publick benefit or convenience, without ſuch recompence as in juſtice he ought to receive for the ſame: And when all things of this kind ſhall be prepared and adjuſted by ſuch Com<g ref="char:EOLhyphen"/>miſſioners, and otherwiſe, which ſhal be found expedient, We make no doubt but ſuch an Act of Parliament wil paſs, as ſhal ſecure all men in what they ſhal and ought to poſſeſs.</p>
+            <p>By the time that this Survey ſhal be taken, We ſhal cauſe a Plot or Model to be made
+<pb n="9" facs="tcp:54002:6" rendition="simple:additions"/>
+for the whole building through thoſe ruined places, which being wel examined by all thoſe perſons who have moſt concernment as wel as experience, We make no queſtion but all men wil be wel pleaſed with it, and very willingly conform to thoſe Orders and Rules which ſhal be agreed for the purſuing thereof.</p>
+            <p>In the mean time we do heartily recom<g ref="char:EOLhyphen"/>mend it to the charity and magnanimity of all wel diſpoſed perſons, and We do heartily pray unto Almighty God that he wil infuſe it into the hearts of Men ſpeedily to endeavour by degrees to re-edifie ſome of thoſe many Churches which in this lamentable Fire have been burned down and defaced, that ſo men may have thoſe publick places of Gods Wor<g ref="char:EOLhyphen"/>ſhip to reſort to, to humble themſelves together before Him upon this His heavy diſpleaſure, and join in their devotion for His future Mercy and Bleſſing upon Us, and as ſoon as We ſhal be informed of any readineſs to begin ſuch a good Work, We ſhal not only give Our aſſi<g ref="char:EOLhyphen"/>ſtance and direction for the model of it, and freeing it from buildings at too near a diſtance, but ſhal encourage it by Our Own bounty and all other wayes We ſhal be deſired.</p>
+            <p>Laſtly, that We may encourage men by Our Own example, We wil uſe all the expedi<g ref="char:EOLhyphen"/>tion We can to re-build Our Cuſtome-Houſe
+<pb n="10" facs="tcp:54002:7" rendition="simple:additions"/>
+in the place where it formerly ſtood, and en<g ref="char:EOLhyphen"/>large it with the moſt conveniences for the Merchants that can be deviſed, and upon all the other Lands which belong unto Us, We ſhal depart with any thing of Our own right and benefit for the advancement of the publick ſer<g ref="char:EOLhyphen"/>vice and beauty of the City, and ſhal further remit to all thoſe who ſhal erect any buildings according to this Declaration all duties ariſing to Us upon the Hearth money for the ſpace of ſeven years.</p>
+            <p>
+               <hi>Given at Our Court at</hi> White-Hal <hi>the thir<g ref="char:EOLhyphen"/>teenth day of</hi> September, <hi>One thouſand ſix hun<g ref="char:EOLhyphen"/>dred ſixty and ſix, in the Eighteenth year of Our Reign.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:54002:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
